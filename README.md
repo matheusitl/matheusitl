@@ -1,16 +1,18 @@
-## Hi there 👋
+#  **Hi, I'm Matheus!**
 
-<!--
-**matheusitl/matheusitl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Learning:
 
-Here are some ideas to get you started:
+<div style="display: inline_block">
+    <img align="center" alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+    <img align="center" alt="Python" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+</div><br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+
+### Get in touch:
+
+<div>
+    <a href = "mailto:mbl199915@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div><br/>
+
+#
