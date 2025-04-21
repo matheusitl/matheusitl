@@ -2,7 +2,7 @@
 
 ### About me
 
-I'm a tech enthusiast with a deep curiosity about how things work. I enjoy exploring new technologies, learning something new every day, and sharing what I discover along the way. I also have experience in graphic design, working with various design tools.
+I'm a tech enthusiast with a deep curiosity about how things work. I enjoy exploring new technologies and learning something new every day. I also have experience in graphic design, working with various design tools.
 
 ### Learning:
 
